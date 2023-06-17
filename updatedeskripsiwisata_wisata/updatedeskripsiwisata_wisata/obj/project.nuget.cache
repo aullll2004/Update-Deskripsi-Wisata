@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2sQD3CMZ8WfX7crjGKcYn3e9bYCte1gCyhQWPrqjRHf2gf+CC0OGKrZviL010AAazBLzn5hUhQSbqFBam3e1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aulia\\OneDrive\\Documents\\KULIAH\\PBO\\updatedeskripsiwisata_wisata\\updatedeskripsiwisata_wisata\\updatedeskripsiwisata_wisata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aulia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aulia\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\aulia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
